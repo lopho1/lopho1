@@ -1,7 +1,7 @@
 - 👋 Hi, I’m frans lotty
 - 👀 I’m interested in programnming in several prog languages
 - 🌱 I’m currently learning ci/cd in github (currently use gitlab), Python, Swift
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on several project in Swift, Python, PowerShell in the end also JavaScript and C#
 - 📫 How to reach me here: frans.lotty@lopho.nl
 
 <!---
